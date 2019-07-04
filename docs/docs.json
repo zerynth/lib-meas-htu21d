@@ -1,8 +1,0 @@
-{
-	"version":"1.0.0",
-	"title":"HTU21D",
-	"copyright":"Zerynth Team",
-	"files":[
-		["HTU21D","htu21d.py"]
-	]
-}

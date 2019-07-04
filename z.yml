@@ -1,0 +1,15 @@
+---
+description: Driver for MEAS HTU21D Humidity and Temperature Sensor
+fullname: lib.meas.htu21d
+info:
+    chip_manufacturer: MEAS
+    chip_name: HTU21D
+    name: Humidity and Temperature Sensor
+    type: Sensor
+keywords:
+- meas
+- humidity
+- temperature
+- sensor
+title: HTU21D Humidity and Temperature Sensor
+...
